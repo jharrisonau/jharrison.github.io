@@ -1,2 +1,12 @@
-theme: jekyll-theme-architect
-title: James Harrison
+# Setup
+name:         jharrisonau
+tagline:      A site to document my experiences in solution architecture
+baseurl:      ""
+excerpt_separator: <!--more-->
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
