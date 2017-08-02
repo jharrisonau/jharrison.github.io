@@ -8,13 +8,17 @@ body {
 }
 
 
-#home .card {
+#blog .card {
   border: none;
 }
 
-#home .card-block {
+#blog .card-block {
   padding-left: 0;
   padding-right: 0;
+}
+
+#blog .card-text h2 {
+  display: none;
 }
 
 #sidebar .card.profile .card-img-top {
